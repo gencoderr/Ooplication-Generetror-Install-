@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Zenith Task Manager",
+  "description": "A progressive web application for managing tasks in a Kanban-style board. It leverages AI to break down high-level goals into actionable tasks, and supports drag-and-drop functionality for intuitive task management across 'To Do', 'In Progress', and 'Done' columns.",
+  "requestFramePermissions": []
+}
